@@ -31,4 +31,6 @@ Row(
   ],
 )
 
-
+name: my_awesome_application
+flutter:
+  uses-material-design: true
